@@ -7,10 +7,7 @@ This project was created as my first front-end web development project to practi
 
 ## 🚀 Live Demo
 
-(After enabling GitHub Pages, paste your live link here)
-
-Example:
-https://yourusername.github.io/tastyBite-website/
+🔗 [Click Here to View TastyBite Website] : https://dhanvantari12.github.io/tastyBite-website/
 
 ---
 
